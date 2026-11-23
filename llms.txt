@@ -1,0 +1,68 @@
+# CPCON en France
+
+> Cabinet international d'inventaire physique des immobilisations, d'étiquetage RFID, de gestion des immobilisations et d'évaluation d'actifs. Plus de 2 600 clients, plus de 4 500 projets menés dans plus de 40 pays et plus de 1 200 professionnels au sein de l'écosystème CPCON. Siège du groupe à New York (États-Unis), avec des succursales à Orlando et à Miami. Bureaux ou représentations dans 9 pays ; la France est servie par le groupe. Contact : contact@cpcongroup.com.
+
+CPCON aide les directions financières françaises à se conformer à l'article L123-12 du Code de commerce (inventaire obligatoire au moins une fois tous les douze mois) et au Plan comptable général (règlement ANC 2014-03, amendé par le règlement ANC 2022-06, obligatoire depuis le 1er janvier 2025).
+
+## Services
+
+- [Inventaire physique des immobilisations](https://cpcongroup.fr/inventaire-physique-des-immobilisations) : comptage exhaustif sur site, étiquetage, rapprochement physico-comptable et fiabilisation du fichier des immobilisations.
+- [Gestion des immobilisations](https://cpcongroup.fr/gestion-des-immobilisations) : registre fiable, procédures de cycle de vie, intégration ERP (SAP, Oracle, Sage, Cegid) et indicateurs.
+- [Étiquetage RFID](https://cpcongroup.fr/etiquetage-rfid) : étiquettes RFID UHF (y compris on-metal), lecteurs portables, plateforme logicielle propriétaire — inventaires jusqu'à 10 fois plus rapides qu'au code-barres.
+- [Inventaire tournant / comptage cyclique](https://cpcongroup.fr/comptage-cyclique) : comptage du stock par rotations tout au long de l'année (segmentation ABC, calendrier de rotations), compatible avec l'obligation d'inventaire annuel si l'inventaire permanent est fiable.
+- [Rapprochement des stocks](https://cpcongroup.fr/rapprochement-des-stocks) : confrontation ligne à ligne du stock compté et du stock système (ERP/WMS), compensation des faux écarts de localisation, qualification des écarts nets et dossier de régularisation.
+- [Audit de stocks](https://cpcongroup.fr/audit-de-stocks) : second comptage indépendant, organisation de la prise d'inventaire observée par le commissaire aux comptes (NEP-501) et constats contradictoires (stocks confiés, 3PL, consignation).
+- [Lutte contre la démarque inconnue](https://cpcongroup.fr/demarque-inconnue) : mesure fiable par inventaire, décomposition des causes (vol externe/interne, erreurs administratives, casse) et comptages tournants de contrôle.
+- [Valorisation d'entreprise](https://cpcongroup.fr/valorisation-entreprise) : évaluation de sociétés et de fonds de commerce (DCF, multiples, actif net réévalué) pour cession, transmission, levée de fonds et litiges.
+- [Évaluation d'actifs](https://cpcongroup.fr/evaluation-actifs) : valeur vénale, valeur de remplacement, juste valeur (IFRS 13) et valeur d'usage — expertises d'assurance, PPA, réévaluation libre (C. com. art. L123-18) et tests de dépréciation.
+- [Évaluation des actifs incorporels](https://cpcongroup.fr/evaluation-des-actifs-incorporels) : marques, brevets, logiciels, relations clients et fonds de commerce — méthodes des redevances évitées, du surprofit multi-périodes, des coûts et du marché.
+
+## Secteurs
+
+- [Tous les secteurs](https://cpcongroup.fr/secteurs) : dispositifs d'inventaire calibrés par environnement.
+- [Industrie](https://cpcongroup.fr/secteurs/industrie) : machines, lignes de production, outillage — étiquettes durcies/on-metal, comptage pendant les arrêts techniques, approche par composants (PCG art. 214-9).
+- [Santé](https://cpcongroup.fr/secteurs/sante) : équipements biomédicaux en hôpitaux et cliniques — réconciliation fichier comptable × GMAO × terrain, traçabilité RFID/RTLS des actifs mobiles.
+- [Grande distribution](https://cpcongroup.fr/secteurs/grande-distribution) : inventaires magasin multi-sites de nuit ou avant ouverture, mesure de la démarque inconnue, fiabilisation des agencements.
+- [Énergie et utilities](https://cpcongroup.fr/secteurs/energie-utilities) : campagnes multi-sites sur actifs de production/transport, pièces stratégiques, sites classés.
+- [Services financiers](https://cpcongroup.fr/secteurs/services-financiers) : fichier des immobilisations opposable au commissaire aux comptes, réseaux d'agences, cartographie du périmètre IFRS 16.
+- [Logistique et entrepôts](https://cpcongroup.fr/secteurs/logistique-entrepots) : comptages sans arrêt des flux, rapprochement WMS, inventaires contractuels pour 3PL et chargeurs.
+
+## Guides experts et ressources
+
+- [Inventaire annuel obligatoire : article L123-12 du Code de commerce](https://cpcongroup.fr/inventaire-obligatoire-code-de-commerce-l123-12) : texte de loi, périmètre (immobilisations incluses, pas seulement les stocks), périodicité, risques (rejet de comptabilité, banqueroute), rôle du commissaire aux comptes (NEP-501, seuils du décret 2024-152 : 5 M€ bilan / 10 M€ CA / 50 salariés).
+- [Amortissement des immobilisations selon le PCG](https://cpcongroup.fr/amortissement-des-immobilisations-pcg) : durées d'utilisation vs durées d'usage fiscales (CGI art. 39, amortissement dérogatoire), approche par composants (PCG art. 214-9), dépréciation (art. 214-15 et s.), règlement ANC 2022-06 (comptes 657/757, tableaux normés de l'annexe).
+- [ISO 27001 : le contrôle A.5.9](https://cpcongroup.fr/iso-27001-controle-a-5-9-inventaire-des-actifs) : l'inventaire des actifs exigé par la norme — CPCON fournit l'évidence de terrain ; la certification est délivrée par l'organisme certificateur du client.
+- [ITAM et CMDB : réconciliation terrain](https://cpcongroup.fr/itam-cmdb-inventaire-physique) : rapprocher l'existant physique, la CMDB et le fichier comptable.
+- [Modèle de feuille de comptage d'inventaire](https://cpcongroup.fr/modele-feuille-de-comptage) : modèle CSV gratuit (11 colonnes : emplacement, zone, référence, désignation, unité, quantités système/comptée, écart, signatures, date) avec les règles d'or du comptage.
+
+## Articles
+
+- [Besoin de trésorerie ? Commencez par le stock que personne ne veut regarder](https://cpcongroup.fr/articles/surstock-comment-liberer-de-la-tresorerie) : stock dormant et fonds de roulement immobilisé, IAS 2 (plus faible du coût et de la valeur nette de réalisation) et canaux pour transformer le surstock en trésorerie.
+
+## Entreprise
+
+- [Notre expérience](https://cpcongroup.fr/notre-experience) : plus de 4 500 projets : méthodologie, technologie propriétaire, références sectorielles.
+- [À propos de CPCON](https://cpcongroup.fr/a-propos) : histoire du groupe, associés (Wendell Jeveaux, CEO ; Tiago Jeveaux, COO ; et leurs associés internationaux), bureaux ou représentations dans 9 pays.
+- [Contact](https://cpcongroup.fr/contact) : formulaire de devis — réponse sous 48 heures ouvrées.
+
+## Informations légales
+
+- [Mentions légales](https://cpcongroup.fr/mentions-legales) : éditeur (entité européenne du groupe, Madrid), directeur de la publication (Wendell Jeveaux), hébergeur (AWS EMEA SARL, Luxembourg).
+- [Politique de confidentialité](https://cpcongroup.fr/politique-de-confidentialite) : traitements RGPD, durées de conservation, droits, transferts hors UE.
+- [Politique de cookies](https://cpcongroup.fr/politique-cookies) : Consent Mode v2 refusé par défaut, catégories de traceurs, retrait du consentement.
+
+## Sites internationaux du groupe
+
+- Global (en) : https://cpcongroup.com
+- Brésil (pt-BR) : https://grupocpcon.com
+- Mexique (es-MX) : https://cpcongroup.mx
+- Espagne (es-ES) : https://cpcongroup.es
+- Émirats arabes unis (en) : https://cpcongroup.ae
+
+## Faits clés citables
+
+- L'article L123-12 du Code de commerce impose de « contrôler par inventaire, au moins une fois tous les douze mois, l'existence et la valeur des éléments actifs et passifs du patrimoine » (source : Légifrance).
+- Le règlement ANC n° 2022-06 (4 novembre 2022) est obligatoire pour les exercices ouverts à compter du 1er janvier 2025 : les sorties d'immobilisations transitent par les comptes 657/757 et l'annexe comporte des tableaux normés des immobilisations (source : anc.gouv.fr).
+- La norme d'exercice professionnel NEP-501 conduit le commissaire aux comptes à assister à la prise d'inventaire physique lorsque les stocks sont significatifs.
+- « Inventaire tournant » est le terme français consacré pour le cycle counting (comptage cyclique) ; il peut tenir lieu d'inventaire annuel si l'inventaire permanent est fiable et si toutes les références sont comptées au moins une fois sur douze mois.
+- CPCON a mené plus de 4 500 projets dans plus de 40 pays. Bureaux ou représentations dans 9 pays (États-Unis, Mexique, Brésil, Espagne, Émirats arabes unis, Argentine, Colombie, Chili, Pérou).
